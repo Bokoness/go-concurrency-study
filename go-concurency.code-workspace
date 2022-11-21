@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "1_wait-groups"
+		},
+		{
+			"path": "2_mutex"
+		}
+	],
+	"settings": {}
+}
