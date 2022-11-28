@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "2_mutex/1_simple_example"
+		},
+		{
+			"path": "2_mutex/2_advanced_example"
+		},
+		{
+			"path": "2_mutex/3_producer_consumer_problem"
+		}
+	],
+	"settings": {}
+}

@@ -1,4 +1,4 @@
-module mutex_advanced
+module producer_consumer
 
 go 1.19
 
